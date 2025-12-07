@@ -1,5 +1,3 @@
-Berikut adalah draft file `README.md` yang lengkap dan terstruktur berdasarkan kode sumber yang Anda unggah. File ini mencakup deskripsi proyek, fitur, teknologi, instalasi, dan panduan kontribusi.
-
 ````markdown
 # GovConnect - Platform Layanan Kelurahan Digital
 
