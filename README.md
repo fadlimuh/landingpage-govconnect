@@ -140,7 +140,7 @@ Proyek ini menggunakan **App Router** dari Next.js 13+, yang memungkinkan:
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                         layout.tsx                          │
-│  (Root Layout: Font Poppins, Metadata, HTML structure)      │
+│  (Root Layout: Font Inter, Metadata, HTML structure)      │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐     │
